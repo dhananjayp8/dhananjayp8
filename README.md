@@ -25,7 +25,7 @@ Welcome to my GitHub profile! "I'm an aspiring software engineer who loves probl
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhananjayp8&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ## 🌟 GitHub Streak
 
