@@ -23,12 +23,12 @@ I'm a full-stack developer with experience in the following technologies:
 ## 💻  Coding Profile
 <p align="center">
   <!-- LeetCode Icon -->
-  <a href="https://leetcode.com/yourprofile" target="_blank">
+  <a href="https://leetcode.com/u/dhananjayp8/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" style="margin: 10px;" />
   </a>
   
   <!-- GeeksforGeeks Icon -->
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/dhananjayp8/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50" height="50" style="margin: 10px;" />
   </a>
 </p>
