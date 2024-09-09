@@ -19,9 +19,9 @@ Welcome to my GitHub profile! "I'm an aspiring software engineer who loves probl
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** Python, JavaScript, C++, Java, Kotlin
+- **Frameworks:** React, Node.js, Bootstrap, TailwindCSS
+- **Tools:** Git, Docker, Excel
 
 ## 📈 GitHub Stats
 
@@ -38,7 +38,16 @@ Welcome to my GitHub profile! "I'm an aspiring software engineer who loves probl
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/dhananjaypuranik05/)
-- [Personal Website](https://yourwebsite.com)
+- <a href="https://github.com/yourusername">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
 
 ## 📄 My Resume
 
