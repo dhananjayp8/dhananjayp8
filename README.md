@@ -18,31 +18,7 @@ I'm a full-stack developer with experience in the following technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" style="margin: 10px;" />
 </p>
-## Technologies I Work With
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-  <!-- Java Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
-  
-  <!-- C++ Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-  
-  <!-- Kotlin Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
-  
-  <!-- SQL Icon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
-  
-  <!-- LeetCode Icon -->
-  <a href="https://leetcode.com/yourprofile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" />
-  </a>
-  
-  <!-- GeeksforGeeks Icon -->
-  <a href="https://www.geeksforgeeks.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50" height="50" />
-  </a>
-</div>
 
 ## 💻  Coding Profile
 <p align="center">
@@ -76,7 +52,7 @@ I'm a full-stack developer with experience in the following technologies:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayp8&theme=radical)
 
 ## 🔗 Connect with Me
-- <a href="https://github.com/dhananjayp8">
+ <a href="https://github.com/dhananjayp8">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="ttps://www.linkedin.com/in/dhananjaypuranik05/">
@@ -89,20 +65,12 @@ I'm a full-stack developer with experience in the following technologies:
 
 ## 📄 My Resume
 
-You can find my resume [here](https://yourwebsite.com/resume.pdf).
+You can find my resume [here](https://drive.google.com/file/d/1AZaISjV-a2gfDArbTt8vk7LSGD3m_KbH/view?usp=drive_link).
 
 ## 🎨 My Portfolio
 
 Check out my portfolio [here](https://react-portfolio-five-swart.vercel.app/).
 
-## 🏆 Achievements
-
-- [Achievement 1](https://link-to-achievement)
-- [Achievement 2](https://link-to-achievement)
-
-## 🖼️ Showcase
-
-![Your Image](https://via.placeholder.com/300x200.png?text=Your+Showcase+Image)
 
 <!-- If you have more sections or want to add more images, links, or any other content, feel free to modify this template. -->
 
