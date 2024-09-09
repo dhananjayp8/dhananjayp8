@@ -29,16 +29,15 @@ Welcome to my GitHub profile! "I'm an aspiring software engineer who loves probl
 
 ## 🌟 GitHub Streak
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhananjayp8&theme=radical)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayp8&theme=radical)
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-username)
+- [LinkedIn](https://www.linkedin.com/in/dhananjaypuranik05/)
 - [Personal Website](https://yourwebsite.com)
 
 ## 📄 My Resume
@@ -47,7 +46,7 @@ You can find my resume [here](https://yourwebsite.com/resume.pdf).
 
 ## 🎨 My Portfolio
 
-Check out my portfolio [here](https://yourwebsite.com/portfolio).
+Check out my portfolio [here](https://react-portfolio-five-swart.vercel.app/).
 
 ## 🏆 Achievements
 
