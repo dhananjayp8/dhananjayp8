@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I'm Dhananjay Puranik 👋
+# I'm Dhananjay Puranik 👋
 
 Welcome to my GitHub profile! "I'm an aspiring software engineer who loves problem-solving in data structures and algorithms (DSA) and web development."
 
