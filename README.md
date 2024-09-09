@@ -18,6 +18,31 @@ I'm a full-stack developer with experience in the following technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" style="margin: 10px;" />
 </p>
+## Technologies I Work With
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <!-- Java Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  
+  <!-- C++ Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  
+  <!-- Kotlin Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
+  
+  <!-- SQL Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
+  
+  <!-- LeetCode Icon -->
+  <a href="https://leetcode.com/yourprofile" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50" />
+  </a>
+  
+  <!-- GeeksforGeeks Icon -->
+  <a href="https://www.geeksforgeeks.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50" height="50" />
+  </a>
+</div>
 
 ## 💻  Coding Profile
 <p align="center">
