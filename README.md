@@ -7,15 +7,13 @@ Welcome to my GitHub profile! "I'm an aspiring software engineer who loves probl
  Here’s a bit more about me:
 
 ## 👨‍💻 About Me
-
-- 🔭 I’m currently working on [Your Current Projects]
-- 🌱 I’m currently learning [Technologies or Languages]
-- 👯 I’m looking to collaborate on [Types of Projects]
-- 🤔 I’m looking for help with [Any Areas Where You Need Assistance]
-- 💬 Ask me about [Your Skills or Interests]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+I'm a full-stack developer with experience in the following technologies:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
 
 ## 🛠️ Skills
 
@@ -36,8 +34,6 @@ Welcome to my GitHub profile! "I'm an aspiring software engineer who loves probl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjayp8&theme=radical)
 
 ## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/dhananjaypuranik05/)
 - <a href="https://github.com/dhananjayp8">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
