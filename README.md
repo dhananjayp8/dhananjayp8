@@ -42,6 +42,7 @@ I'm a full-stack developer with experience in the following technologies:
 - **Languages:** Python, JavaScript, C++, Java, Kotlin
 - **Frameworks:** React, Node.js, Bootstrap, TailwindCSS
 - **Tools:** Git, Docker, Excel
+- **Database:** Mongodb, MySQL, PostgreSQL
 
 ## 📈 GitHub Stats
 
