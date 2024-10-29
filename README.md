@@ -70,11 +70,11 @@ I'm a full-stack developer with experience in the following technologies:
 
 ## 📄 My Resume
 
-You can find my resume [here](https://drive.google.com/file/d/1AZaISjV-a2gfDArbTt8vk7LSGD3m_KbH/view?usp=drive_link).
+You can find my resume [here](https://drive.google.com/file/d/1HeG8QZDxHEtm5h3cd4_gk9L_rzkWcd2g/view).
 
 ## 🎨 My Portfolio
 
-Check out my portfolio [here](https://react-portfolio-five-swart.vercel.app/).
+Check out my portfolio [here](https://animated-portfolio-alpha-murex.vercel.app/).
 
 
 <!-- If you have more sections or want to add more images, links, or any other content, feel free to modify this template. -->
