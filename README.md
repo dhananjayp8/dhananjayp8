@@ -60,7 +60,7 @@ I'm a full-stack developer with experience in the following technologies:
  <a href="https://github.com/dhananjayp8">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
-<a href="ttps://www.linkedin.com/in/dhananjaypuranik05/">
+<a href="https://www.linkedin.com/in/dhananjaypuranik05/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="mailto:dhananjaypuranik8@gmail.com">
