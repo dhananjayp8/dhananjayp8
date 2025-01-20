@@ -70,7 +70,7 @@ I'm a full-stack developer with experience in the following technologies:
 
 ## 📄 My Resume
 
-You can find my resume [here](https://drive.google.com/file/d/1HeG8QZDxHEtm5h3cd4_gk9L_rzkWcd2g/view).
+You can find my resume [here](https://drive.google.com/file/d/1mV3NgMob6aQzYwNBGx8aOMQ_tZ4KnXHQ/view).
 
 ## 🎨 My Portfolio
 
