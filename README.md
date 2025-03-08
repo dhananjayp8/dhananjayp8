@@ -2,7 +2,7 @@
 
 # I'm Dhananjay Puranik 👋
 
-Welcome to my GitHub profile! "I'm an aspiring software engineer who loves problem-solving in data structures and algorithms (DSA) and web development."
+Welcome to my GitHub profile! "I'm a Software Engineering Intern who loves problem-solving in data structures and algorithms (DSA) and web development."
 
  Here’s a bit more about me:
 
